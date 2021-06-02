@@ -1,2 +1,2 @@
-# project name 
-Project description.
+# todo-tdd 
+TDD exercises on todo list example.
